@@ -1,4 +1,4 @@
-# kvm-scripts
+# kvm-lxc-scripts
 
 Here is a collection of useful scripts for using kvm. I took most
 of these from [raymii.org][raymii] because he had a great tutorial.
